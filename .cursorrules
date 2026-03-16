@@ -1,0 +1,23 @@
+# Cursor AI Rules for Humanize Text API test 1
+
+You have access to the `Humanize Text API test 1` MCP server tools.
+Purpose: AI-Driven API for generating humanized, engaging comments based on brand voice and personality
+
+## Usage Guidelines
+- When the user asks related questions, prefer using the `humanize_text_api_test_1` MCP tools.
+- You can access these tools by typing `@` followed by the server name.
+
+## Available Tools (Highlights)
+- `generate_humanize_response_api_v1_generate_humanize_response_post`: Generate Humanize Response
+- `extract_brand_profile_api_v1_extract_brand_profile_post`: Extract brand profile from provided list of previous posts (JSON data).
+Each post content is analyzed for tone, style, and formatting preferences.
+- `get_metrics_endpoint_api_v1_metrics_get`: Get Metrics Endpoint
+- `transcribe_audio_api_v1_transcribe_post`: Transcribe an uploaded audio file to text.
+Supported formats: mp3, wav, m4a, webm, etc.
+- `root__get`: Root endpoint.
+- `health_check_health_get`: Health check endpoint.
+
+## Interaction Pattern
+1. Analyze user intent.
+2. If the user needs data or actions from Humanize Text API test 1, call the appropriate MCP tool.
+3. Process the results and explain them clearly to the user.
