@@ -1,0 +1,27 @@
+{
+  "name": "humanize-text-api-test-1",
+  "displayName": "Humanize Text API test 1",
+  "version": "1.0.0",
+  "description": "AI-Driven API for generating humanized, engaging comments based on brand voice and personality",
+  "author": {
+    "name": "MCP Hub User",
+    "email": "support@mcphub.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "plugin",
+    "mcp",
+    "ai-tools",
+    "mcphub"
+  ],
+  "icon": "https://mcphub.io/favicon.ico",
+  "skills": "skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcp-hub-user/humanize-text-api-test-1"
+  },
+  "engines": {
+    "cursor": "^0.1.0"
+  }
+}
